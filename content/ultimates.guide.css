@@ -1,0 +1,37 @@
+img {
+    max-width: 100%;
+    margin: 10px auto;
+    display: block;
+}
+
+img + em {
+    font-size: 0.8em;
+    margin: 10px auto;
+    max-width: 600px;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+img[alt="Spiny Plume Dome"] {
+    width: 300px;
+}
+
+img[alt="Sisters"], img[alt="Mesohigh"]{
+    width: 600px;
+}
+
+.navbar {
+    background-color: #f4f4f4;
+}
+
+.navbar .nav .nav-logo {
+    float: left;
+    margin: 20px auto;
+}
+
+.navbar .nav .nav-links {
+    float: right;
+    margin: 20px auto;
+    font-size: 1em;
+}

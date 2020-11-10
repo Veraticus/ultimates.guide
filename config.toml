@@ -1,0 +1,29 @@
+baseURL = "https://ultimates.guide"
+languageCode = "en-us"
+title = "ultimates.guide"
+theme = "harbor"
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[Author]
+  name = "ultimates.guide"
+
+[outputs]
+  section = ["HTML"]
+
+[params]
+  customCSS = [ "/ultimates.guide.css" ]
+
+[[params.nav]]
+  identifier = "uwu"
+  name = "UWU"
+  url = "/guides/uwu/"
+  weight = 3
+
+[[params.nav]]
+  identifier = "ucob"
+  name = "UCoB"
+  url = "/guides/ucob"
+  weight = 3
