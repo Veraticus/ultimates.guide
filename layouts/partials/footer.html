@@ -1,22 +1,12 @@
-<footer>
-  {{partial "social.html" .}}
-  <div class="container">
-    <p class="credits copyright">
-      <a href="{{ .Site.BaseURL }}about">{{ .Site.Author.name }}</a>
-      &nbsp;&copy;
-      {{ .Site.LastChange.Format "2006" }}; content originally by Clees from clees.me, reproduced here with permission from the author
-      {{ if .Site.Title }}
-      &nbsp;/&nbsp;
-      <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-      {{ end }}
-      &nbsp;&ndash;&nbsp;
-      <i class="fas fa-moon" id="dark-mode-toggle"></i>
-
-    <p class="credits theme-by">
-      {{ i18n "powered-by" }} <a href="https://gohugo.io">Hugo</a>&nbsp;
-      {{ i18n "theme" }}
-      <a href="https://github.com/matsuyoshi30/harbor">Harbor</a>
-    </p>
-    </p>
-  </div>
-</footer>
+        <footer>
+			{{ if and .Params.comments (gt (len .Site.DisqusShortname) 0) }}
+            <figure class="article-discussion">
+              {{ template "_internal/disqus.html" . }}
+            </figure>
+			{{ end }}
+			<span>
+			&copy; <time datetime="{{ now }}">{{ now.Format "2006" }}</time> {{ .Site.Author.name }}; content originally by Clees, reproduced here with permission. {{ i18n "generator" | safeHTML }}
+			</span>
+		</footer>
+        <script src="https://cdn.jsdelivr.net/npm/glider-js@1/glider.min.js"></script>
+        <script type="text/javascript" src="{{ "ultimates.guide.js" | relURL }}"></script>

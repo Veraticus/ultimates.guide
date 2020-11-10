@@ -1,37 +1,29 @@
-img {
-    max-width: 100%;
-    margin: 10px auto;
-    display: block;
+div.glider-contain {
+    margin-bottom: 20px;
 }
 
-img + em {
-    font-size: 0.8em;
-    margin: 10px auto;
-    max-width: 600px;
-    display: block;
-    width: 100%;
-    text-align: center;
+img[alt="Upheaval Positioning"] {
+    width: 150px;
 }
 
-img[alt="Spiny Plume Dome"] {
+img[alt="Spiny Plume Dome"],
+img[alt="Ifrit Transition Updated"],
+img[alt="Infernal Nails"],
+img[alt="Runes"],
+img[alt="Landslides"]
+{
     width: 300px;
 }
 
-img[alt="Sisters"], img[alt="Mesohigh"]{
+img[alt="Ifrit Eruptions for Nails"] {
+    width: 500px;
+}
+
+img[alt="Sisters"],
+img[alt="Mesohigh"] {
     width: 600px;
 }
 
-.navbar {
-    background-color: #f4f4f4;
-}
-
-.navbar .nav .nav-logo {
-    float: left;
-    margin: 20px auto;
-}
-
-.navbar .nav .nav-links {
-    float: right;
-    margin: 20px auto;
-    font-size: 1em;
+img[alt="Titan Upheaval Safe Spots"] {
+    width: 625px;
 }
