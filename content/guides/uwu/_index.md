@@ -741,7 +741,7 @@ up this puddle. At this point, your caster, healer, and melee should all
 > * Tumult x8
 > * Earthen Fury (Enrage)
 
-## The Ultima Weapon
+# The Ultima Weapon
 ## Phase 4: Lahabrea
 
 This phase will consist of the party having to use 4 Level 3 Limit
