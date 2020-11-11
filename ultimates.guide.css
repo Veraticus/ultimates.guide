@@ -47,6 +47,10 @@ div.container, main, footer, .nav-container {
     max-width: 1080px;
 }
 
+form#donate {
+    margin-left: 30px;
+}
+
 /* Image fixes */
 img[alt="Upheaval Positioning"] {
     width: 150px;
