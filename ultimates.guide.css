@@ -4,7 +4,7 @@ div.glider-contain {
 }
 
 div.glider-contain img {
-    max-width: 600px;
+    max-width: 500px;
     display: block;
     border: 4px solid #e5e5e5;
 }
@@ -43,12 +43,21 @@ main ul li {
   margin-bottom: 0.8rem; 
 }
 
+main ul li > ul {
+  margin-top: 0.8rem; 
+}
+
 div.container, main, footer, .nav-container {
     max-width: 1080px;
 }
 
 form#donate {
     margin-left: 30px;
+}
+
+hr {
+    color: #e5e5e5;
+    margin: 10px auto 15px auto;
 }
 
 /* Image fixes */
@@ -61,14 +70,36 @@ img[alt="Ifrit Transition Updated"],
 img[alt="Infernal Nails"],
 img[alt="Runes"],
 img[alt="Landslides"],
-img[Alt="Primal Safe Spots"]
+img[Alt="Primal Safe Spots"],
+img[Alt="Neurolink Positioning"],
+img[Alt="Liquid Hell Baiting"],
+img[Alt="Liquid Hell Into Fireball"],
+img[Alt="Thunderstruck Dynamo"],
+img[Alt="Protean Style Clock Spread"],
+img[Alt="Edge Method"],
+img[Alt="Center Method"],
+img[Alt="Blackfire Tower"],
+img[Alt="Fellruin"],
+img[Alt="Heavenfall Dive Not Mid"],
+img[Alt="Heavenfall Dive Nael Mid"],
+img[Alt="Heavensfall Tower"],
+img[Alt="Adds Phase Positioning"],
+img[Alt="221133"],
+img[Alt="2-to-1 Dodge"]
 {
     width: 300px;
 }
 
+img[Alt="Taal Exaflare Wall"] {
+    width: 400px;
+}
+
 img[alt="Ifrit Eruptions for Nails"],
 img[alt="Active Phase 2"],
-img[alt="Aetheric Boom"]{
+img[alt="Aetheric Boom"],
+img[alt="Octet Twin"],
+img[alt="Exaflare"],
+img[alt="Straight Through"] {
     width: 500px;
 }
 
