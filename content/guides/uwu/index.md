@@ -1005,8 +1005,91 @@ confident in your damage and want to have some extra breathing room,
 consider a 6-3-1-1 strategy for some extra time in taking a final orb,
 but this should not be necessary. A recommended strategy can be seen
 below.
-                    Begin by baiting the first Weight of the Land at
-melee range, near the southwest of Ultima's hitbox. Move toward the
+
+<div class="glider-contain" id="annihilation">
+<div class="glider">
+<div>
+
+![Annihilation 1-1](annihilation-1-1.png)
+*Begin by baiting the first Weight of the Land at melee range,
+near the southwest of Ultima's hitbox. Move toward the southeast to dodge.*
+
+</div>
+
+<div>
+
+![Annihilation 1-2](annihilation-1-2.png)
+*The second Weight of the Land should appear at the southeast of Ultima's hitbox,
+and a Mesohigh tether will tether to a random person. Have a pre-assigned player
+(preferably a tank) move out of the stack to take the tether out, while the rest
+of the party dodges back to the southwest. Flaming Crush should resolve here.*
+
+</div>
+
+<div>
+
+![Annihilation 1-3](annihilation-1-3.png)
+*Have all of your players in charge of taking Aetheroplasms dodge right, while
+the rest of the party dodges left. The number of people dodging right depends
+on your Aetheric Boom strategy.*
+
+</div>
+
+<div>
+
+![Annihilation 1-4](annihilation-1-4.png)
+*Your orb group should take the second orb here. Everyone except for the 
+Searing Wind healer should then move behind Ultima, while your Searing Wind 
+healer moves toward the south, to avoid Ifrit charges and Landslides. Make 
+sure to bait the Feather Rain before you move.*
+
+</div>
+
+<div>
+
+![Annihilation 1-5](annihilation-1-5.png)
+*Have players move into the Ifrit charge, in the location of the Titan Landslide,
+in order to dodge the second hits. Your searing wind healer should do a similar
+movement. There is merit in dodging toward the northwest, regardless of Titan's
+position, so if you're having trouble with the Aetheroplasm hitting unwanted
+players, I'd recommend trying it out.*
+
+</div>
+
+<div>
+
+![Annihilation 1-6](annihilation-1-6.png)
+*Have players move into the Ifrit charge, in the location of the Titan Landslide,
+in order to dodge the second hits. Your searing wind healer should do a similar
+movement. There is merit in dodging toward the northwest, regardless of Titan's
+position, so if you're having trouble with the Aetheroplasm hitting unwanted
+players, I'd recommend trying it out.*
+
+</div>
+
+<div>
+
+![Annihilation 1-7](annihilation-1-7.png)
+*Your searing wind healer should take the Mesohigh tether while everyone else
+dodges the Eye of the Storm.*
+
+</div>
+
+<div>
+
+![Annihilation 1-8](annihilation-1-8.png)
+*Have a single player take the last two Aetheroplasms while the rest of the party
+dodges. There is a Feather Rain here, so take note of it, and don't accidentally
+dodge into the Aetheroplasm.*
+
+</div>
+
+</div>
+<button aria-label="Previous" class="glider-prev">«</button>
+<button aria-label="Next" class="glider-next">»</button>
+<div role="tablist" class="dots"></div>
+</div>
+
 > Note:
  You can instead have a ranged DPS take the first tether, in order for
 your tanks to keep uptime on the boss. Just make sure the ranged DPS
@@ -1025,10 +1108,10 @@ landslides, and the phase will finish with Ultima using a Tank Purge.
 After the final Tank Purge, Ultima will teleport to the middle of the
  arena. Searing Wind will still be active for a while after the phase is
  over, so be wary.
-#### Active Phase II
 
-<ul>
-<li class="first-child">Eye of the Storm
+### Active Phase II
+
+* Eye of the Storm
 * Homing Lasers
 * Eye of the Storm
 * Radiant Plumes
@@ -1036,13 +1119,15 @@ After the final Tank Purge, Ultima will teleport to the middle of the
 * Vulcan Burst + Eye of the Storm
 * Homing Lasers
 * Vulcan Burst + Eye of the Storm
-<li class="last-child">Diffractive Laser
-</ul>
+* Diffractive Laser
 
 When the phase begins, Searing Wind will still be active on a healer.
  Position your party as shown below to more easily transition into this
 phase.
-<div id="attachment_1267" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1267" class="wp-image-1267" src="The%20Weapon%E2%80%99s%20Refrain%20(Ultimate)%20%E2%80%93%20clees.me_files/active-phase-2.webp" alt="" srcset="https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/active-phase-2.png?w=600&amp;ssl=1 600w, https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/active-phase-2.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/active-phase-2.png?resize=300%2C300&amp;ssl=1 300w" sizes="(max-width: 500px) 100vw, 500px" width="500" height="500"><p id="caption-attachment-1267" class="wp-caption-text">You may want to drag Ultima closer to north, into the Eye of the Storm, just in case Vulcan Burst isn't shielded properly.</div>
+
+![Active Phase 2](active-phase-2.png)
+*You may want to drag Ultima closer to north, into the Eye of the Storm, just in
+case Vulcan Burst isn't shielded properly.* 
 
 The key part of this active phase is shielding Vulcan Bursts that
 will come out periodically. Make sure your tank who's ready to take
@@ -1052,7 +1137,8 @@ combo. Stand near the edge of the Eye of the Storm, and move into it as
 soon as it's resolved, dodging the Radiant Plumes. I'd recommend taking
 this opportunity to drag Ultima into the Eye of the Cyclone, just in
 case the upcoming Vulcan Burst isn't shielded properly. Ultima will
-cleave in the form of** Diffractive Laser. Prepare for the upcoming Vulcan Burst by shielding now.** Ultima
+cleave in the form of **Diffractive Laser**.
+**Prepare for the upcoming Vulcan Burst by shielding now.** Ultima
  will follow up with a Vulcan Burst into Eye of the Storm. If shields
 are not timed properly, your tank may have to use a knockback-cancelling
  ability like Tempered Will here. Ultima will then follow up with a
@@ -1060,25 +1146,26 @@ Homing Laser, followed once more by a Vulcan Burst into Eye of the
 Storm. Shielding here is fairly simple, outside of the tank taking
 Homing Lasers, which is fairly tight.
 
-When Ultima reaches 49.9%, it will begin casting **Ultimate Suppression**. This can be pushed early, so be wary.
+When Ultima reaches 49.9%, it will begin casting **Ultimate Suppression**.
+This can be pushed early, so be wary.
 > You
  should make it your goal to attempt to push Ultima as soon as he begins
  casting Homing Lasers. This will leave him animation-locked, and will
 allow you to push some extra damage before the burn after Ultimate
 Suppression.
 
-<img class="aligncenter size-medium wp-image-1266" src="The%20Weapon%E2%80%99s%20Refrain%20(Ultimate)%20%E2%80%93%20clees.me_files/active-phase-ii.html" alt="" data-recalc-dims="1" scale="0" width="1" height="1">
-#### Intermission III: Ultimate Suppression
+### Intermission III: Ultimate Suppression
 
-<ul>
-<li class="first-child">Garuda spawns at the northwest, Ultima spawns at
+* Garuda spawns at the northwest, Ultima spawns at
  the northeast, Titan spawns at the southwest, and Ifrit spawns at the
 southeast. Sisters spawn near the center of the arena, slightly
 northwest and southeast of the center. Featherlances begin circling
 around the arena, going counter-clockwise.
 * 3 Eruptions go on 3 random party members.
-* At the second Eruption marker, 2 random non-eruption players get marked with Mistral Song.
-* At the third Eruption marker, a random Eruption target gets marked with Granite Gaol.
+* At the second Eruption marker, 2 random non-eruption players get marked with
+Mistral Song.
+* At the third Eruption marker, a random Eruption target gets marked with
+Granite Gaol.
 * At the fourth Eruption marker, Mistral Songs resolve, the Gaol
 marker becomes fettered, and Garuda uses a large fan AoE targetting a
 random player.
@@ -1087,12 +1174,14 @@ random player.
 * A second Feather Rain is used by Garuda. Light Pillar begins chasing
  a random player (The non-tank who has not been selected by either
 Eruptions, Mistral Song, or Gaol).
-* Ultima uses Aetherochemical Laser, randomly shooting through the middle, toward its left, and toward its right.
-* A Mesohigh tether appears, Titan uses Landslide on a random player, and Ifrit marks a random DPS with Flaming Crush.
-* Titan's second Landslide hit at the same time Flaming Crush and Mesohigh tethers resolve.
+* Ultima uses Aetherochemical Laser, randomly shooting through the middle,
+toward its left, and toward its right.
+* A Mesohigh tether appears, Titan uses Landslide on a random player, and Ifrit
+marks a random DPS with Flaming Crush.
+* Titan's second Landslide hit at the same time Flaming Crush and Mesohigh
+tethers resolve.
 * Garuda uses another Feather Rain.
-<li class="last-child">Ultima uses Tank Purge, and the phase ends.
-</ul>
+* Ultima uses Tank Purge, and the phase ends.
 
 Ultimate Suppression is arguably the greatest wall of the fight, with
  mechanics seemingly rapid-firing. The phase is fairly simple to digest,
@@ -1100,7 +1189,7 @@ Ultimate Suppression is arguably the greatest wall of the fight, with
 to note is that each player (aside from tanks) will be marked with at
 least 1 mechanic, which means your goal is to find out who's marked for
 what as soon as possible in order to figure out what player will be
-targetted by **Light Pillar, **which will chase a party
+targetted by **Light Pillar** which will chase a party
 member around with a series of pillars of light dealing magic damage to
 all players under it when it falls.
 
@@ -1119,9 +1208,67 @@ damage resolves. Dodge out of AoEs, avoid Feather Rain, and break the
 Granite Gaol as soon as possible. Keep in mind you'll be dodging two
 Feather Rains in quick succession. Make sure players not in the party
 stack don't accidentally Feather Rain the party stack.
-                    Have your party loosely spread in front of Garuda,
-and your tanks standing in front of Titan. (Tanks can also go on
-Ultima's side if you want, but you might have issues with lasers.)     
+
+<div class="glider-contain" id="suppression">
+<div class="glider">
+<div>
+
+![Suppression 1](suppression-1.png)
+*Have your party loosely spread in front of Garuda, and your tanks standing
+in front of Titan. (Tanks can also go on Ultima's side if you want, but you
+might have issues with lasers.)*
+
+</div>
+
+<div>
+
+![Suppression 2](suppression-2.png)
+*3 random non-tanks will be marked with eruptions.
+Everyone should move toward the middle.*
+
+</div>
+
+<div>
+
+![Suppression 3](suppression-3.png)
+*Two people will get marked with Mistral Song as you bait the second eruption.
+These players should move behind the tanks near titan, so they can intercept
+Mistral Song. The rest of the party continues moving forward.*
+
+</div>
+
+<div>
+
+![Suppression 4](suppression-4.png)
+*At this point, one player will be marked with Granite Gaol. At this point,
+there is one player who has not been selected for any mechanics. This
+person will be baiting the light pillar shortly.*
+
+</div>
+
+<div>
+
+![Suppression 5](suppression-5.png)
+*Move out of the 4th Eruption/Tornado, avoid Garuda's fan AoE, and get
+ready to Bait Feather Rain.*
+
+</div>
+
+<div>
+
+![Suppression 6](suppression-6.png)
+*Make sure the Light Pillar bait moves along the wall (but not too close to
+avoid Featherlances) toward Garuda, hitting the Granite Gaol if possible.
+Everyone else should be attacking the Gaol and dodging Feather Rain.*
+
+</div>
+
+</div>
+<button aria-label="Previous" class="glider-prev">«</button>
+<button aria-label="Next" class="glider-next">»</button>
+<div role="tablist" class="dots"></div>
+</div>
+
 
 After all of this is completed, have your whole party stacked in one
 position, as shown below, to bait Landslide. A random player will be
@@ -1131,10 +1278,8 @@ Mesohigh. Move together as a group to avoid Landslide (out and back in),
 the Mesohigh tether. Dodge a final feather rain and get ready for a Tank
  Purge, so have everyone stacked and shielded. After this phase is over,
  Ultima will teleport back to the middle.
-                    You don't have to be stacked in this exact position.
- Be wary that  Ultima Lasers are going out throughout all of this, so
-#### Aetheric Boom
 
+### Aetheric Boom
 
 Starting from here, all damage is vital to give you extra time for
 the enrage, so push as much damage as you can. Ultima will begin casting
@@ -1150,13 +1295,13 @@ corresponds to the northeastern orb, the third orb corresponds to the
 southeastern orb, and the fourth or orb corresponds to the southwestern
  orb.
 
- 
-<div id="attachment_1248" style="width: 510px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1248" class="wp-image-1248" src="The%20Weapon%E2%80%99s%20Refrain%20(Ultimate)%20%E2%80%93%20clees.me_files/aetheric-boom.webp" alt="" srcset="https://i1.wp.com/clees.me/home/wp-content/uploads/2018/06/aetheric-boom.png?w=600&amp;ssl=1 600w, https://i1.wp.com/clees.me/home/wp-content/uploads/2018/06/aetheric-boom.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/clees.me/home/wp-content/uploads/2018/06/aetheric-boom.png?resize=300%2C300&amp;ssl=1 300w" sizes="(max-width: 500px) 100vw, 500px" width="500" height="500"><p id="caption-attachment-1248" class="wp-caption-text">You
+![Aetheric Boom](aetheric-boom.png)
+*You
  can split your groups to be 4-4, or 6-2, having the tanks take orbs by
 themselves with some cooldowns, and the party taking the rest. Sprint is
- nice here, to take the second set of orbs as soon as you're healed.</div>
-#### Primals
+ nice here, to take the second set of orbs as soon as you're healed.*
 
+### Primals
 
 After orbs resolve, Ultima will use an AoE Viscous Aetheroplasm,
 giving 3 random players the Viscous Aetheroplasm debuff. Ultima will
@@ -1175,7 +1320,9 @@ untargettable, so abilities that affect the enemy, such as addle, won't
 work). Make sure your party has two set safe spots (ideally near the
 middle of the arena, and on an intercardinal) to stay stacked. I'd
 recommend using waymarks for this.
-<div id="attachment_1253" style="width: 334px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1253" class="wp-image-1253 size-full" src="The%20Weapon%E2%80%99s%20Refrain%20(Ultimate)%20%E2%80%93%20clees.me_files/primal-safe-spots-1.webp" alt="" srcset="https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/primal-safe-spots-1.png?w=324&amp;ssl=1 324w, https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/primal-safe-spots-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/clees.me/home/wp-content/uploads/2018/06/primal-safe-spots-1.png?resize=300%2C300&amp;ssl=1 300w" sizes="(max-width: 324px) 100vw, 324px" width="324" height="323"><p id="caption-attachment-1253" class="wp-caption-text">Putting markers similar to these will help immensely when coordinating to stack together.</div>
+
+![Primal Safe Spots](primal-safe-spots-1.png)
+*Putting markers similar to these will help immensely when coordinating to stack together.*
 
 **Garuda** will begin by using a Wicked Wheel, followed
 by a Wicked Tornado. The Viscous Aetheroplasm will explode as the Wicked
@@ -1213,11 +1360,11 @@ and ending with the player who did the most damage (usually ends up
 pulling healers, tanks, and then finally DPS). There's a somewhat long
 animation even after all players are defeated, so make sure to refresh
 dots for those final seconds of damage.
-<div class="su-note" style="border-color:#c2c2c2;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;"><div class="su-note-inner su-u-clearfix su-u-trim" style="background-color:#dcdcdc;border-color:#ffffff;color:#333333;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;">
+
+<blockquote>
 
 **Rotation**
-<ul>
-<li class="first-child">Ultima
+* Ultima
 * Tank Purge
 * Homing Lasers + Viscous Aetheroplasm
 * **Ultimate Predation**
@@ -1231,7 +1378,7 @@ dots for those final seconds of damage.
 * Mistral Shriek + Feather Rain
 * Homing Lasers
 * Feather Rain
-* **Ultimate **<b>Annihilation</b>
+* **Ultimate Annihilation**
 * Eye of the Storm
 * Homing Lasers
 * Eye of the Storm
@@ -1244,43 +1391,33 @@ dots for those final seconds of damage.
 * **Ultimate Suppression (Can be pushed early if Ultima is brought under 50%)**
 * Ultima
 * Aetheric Boom + Aetheroplasm Orbs (x4)
-<li class="last-child">Viscous Aetheroplasm (AoE)
-</ul>
+* Viscous Aetheroplasm (AoE)
 
 Ultima will summon the following three primals in one of three orders, but their rotations are static.
 
 **Summon Garuda**
-<ul>
-<li class="first-child">Wicked Wheel
+* Wicked Wheel
 * Wicked Tornado + Viscous Aetheroplasm explosion
 * Aerial Blast
-<li class="last-child">Feather Rain
-</ul>
+* Feather Rain
 
 **Summon Ifrit**
-<ul>
-<li class="first-child">Eruptions x2 + Crimson Cyclone (Cardinals)
+* Eruptions x2 + Crimson Cyclone (Cardinals)
 * Viscous Aetheroplasm explosion
-<li class="last-child">Hellfire
-</ul>
+* Hellfire
 
 **Summon Titan**
-<ul>
-<li class="first-child">Weight of the Land
+* Weight of the Land
 * Weight of the Land
 * Viscous Aetheroplasm explosion
 * Weight of the Land
-<li class="last-child">Earthen Fury
-</ul>
+* Earthen Fury
 
 Ultima will begin to charge **Ultima Aether** until he reaches 100.
-<ul>
-<li class="first-child">Citadel Siege x7
-<li class="last-child">Sabik (Enrage)
-</ul>
-
+* Citadel Siege x7
+* Sabik (Enrage)
+</blockquote>
 
 If you've defeated the Ultima Weapon, congratulations! You'll be
 rewarded with an Ultima Totem, which can be exchanged in Rhalgr's Reach
 for an i375 Ultima weapon of your choice.
-b

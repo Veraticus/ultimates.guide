@@ -20,7 +20,7 @@ unsafe= true
     identifier = "uwu"
     name = "UWU"
     title = "UWU"
-    url = "/guides/uwu/"
+    url = "/guides/uwu"
     weight = 0
   [[menu.main]]
     identifier = "ucob"

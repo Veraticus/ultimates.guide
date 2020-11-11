@@ -2,6 +2,12 @@ div.glider-contain {
     margin-bottom: 20px;
 }
 
+div.glider-contain img {
+    max-width: 600px;
+    display: block;
+    border: 4px solid #e5e5e5;
+}
+
 img[alt="Upheaval Positioning"] {
     width: 150px;
 }
@@ -10,12 +16,15 @@ img[alt="Spiny Plume Dome"],
 img[alt="Ifrit Transition Updated"],
 img[alt="Infernal Nails"],
 img[alt="Runes"],
-img[alt="Landslides"]
+img[alt="Landslides"],
+img[Alt="Primal Safe Spots"]
 {
     width: 300px;
 }
 
-img[alt="Ifrit Eruptions for Nails"] {
+img[alt="Ifrit Eruptions for Nails"],
+img[alt="Active Phase 2"],
+img[alt="Aetheric Boom"]{
     width: 500px;
 }
 
