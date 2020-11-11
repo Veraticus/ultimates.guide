@@ -1,5 +1,6 @@
 +++
 title = "UWU"
+url = "/uwu"
 +++
 
 ![The Weapon's Refrain (Ultimate)](banner.png)
