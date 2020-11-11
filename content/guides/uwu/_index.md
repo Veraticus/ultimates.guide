@@ -781,7 +781,7 @@ LB button when it is their turn and they will correctly time their Limit
 The Ultima Weapon absorbs all abilities from previous primals, as well as gains
 the following:
 
-### The Ultima Weapon's Abilities:
+## The Ultima Weapon's Abilities:
 
 * **Ultima Aether**: Duty
  Gauge that appears throughout this whole phase. If it reaches 100
@@ -811,7 +811,7 @@ After **Ultima**, the Ultima Weapon will devour all of the primals in a fairly
 lengthy in-fight cutscene, and proceed to use **Tank Purge**,
 followed closely by **Homing Lasers**, before casting Ultimate Predation.
 
-#### Intermission I: Ultimate Predation
+### Intermission I: Ultimate Predation
 
 * Garuda spawns in a random quadrant near the
 center of the arena. Ifrit and Ultima spawn in a random intercardinal.
