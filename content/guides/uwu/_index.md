@@ -1,5 +1,5 @@
 +++
-title = "UWU"
+title = "The Weapon's Refrain (Ultimate)"
 url = "/uwu"
 +++
 

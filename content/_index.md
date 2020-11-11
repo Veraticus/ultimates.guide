@@ -14,6 +14,23 @@ These guides can be altered on [GitHub](https://github.com/Veraticus/ultimates.g
 Please contribute to keep them as relevant as possible.
 
 If you find this resource useful, please contribute:
-* [Donate to Clees for their amazing work on the guides](https://www.paypal.com/donate?token=aC1sfnSr1l-3gtqDSNNhH-bKh_TJ3mdwpqIQYz1Hc0sU_y4ypZiNRcA8E0EwF6DXIqst7e02KW9hxKSU)
-* Get Veraticus (Atmus Coldheart@Gilgamesh, Discord: Veraticus#0593) totems in
+* Donate to Clees for their amazing work on the guides by pressing this button:
+
+<!-- Begin PayPal Donations by https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin -->
+
+<form id="donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+    <div class="paypal-donations">
+        <input type="hidden" name="cmd" value="_donations" />
+        <input type="hidden" name="bn" value="TipsandTricks_SP" />
+        <input type="hidden" name="business" value="juanpablanco@gmail.com" />
+        <input type="hidden" name="item_name" value="clees.me guides and other content." />
+        <input type="hidden" name="rm" value="0" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" style="cursor: pointer;" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" name="submit" alt="PayPal - The safer, easier way to pay online." />
+        <img alt="" src="https://i0.wp.com/www.paypal.com/en_US/i/scr/pixel.gif?resize=1%2C1&#038;ssl=1" width="1" height="1" data-recalc-dims="1" />
+    </div>
+</form>
+<!-- End PayPal Donations -->
+
+* Get me (Atmus Coldheart@Gilgamesh, Discord: Veraticus#0593) totems in
 an Ultimate of your choice
