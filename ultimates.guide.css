@@ -1,3 +1,4 @@
+/* Glider overrides */
 div.glider-contain {
     margin-bottom: 20px;
 }
@@ -8,6 +9,45 @@ div.glider-contain img {
     border: 4px solid #e5e5e5;
 }
 
+/* Theme overrides */
+html {
+    font-size: 14px;
+
+    @media (min-width: 600px) {
+        font-size: 14px;
+    }
+}
+
+img + em {
+    font-size: 0.8em;
+    margin: 10px auto;
+    max-width: 600px;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+blockquote {
+    border: .25rem double #fff;
+    background-color: #e5e5e5;
+    color: #555;
+    margin: .8rem 0;
+    padding: 1rem;
+}
+
+p {
+    line-height: 1.6rem;
+}
+
+main ul li {
+  margin-bottom: 0.8rem; 
+}
+
+div.container, main, footer, .nav-container {
+    max-width: 1080px;
+}
+
+/* Image fixes */
 img[alt="Upheaval Positioning"] {
     width: 150px;
 }
