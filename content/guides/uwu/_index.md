@@ -1422,3 +1422,63 @@ Ultima will begin to charge **Ultima Aether** until he reaches 100.
 If you've defeated the Ultima Weapon, congratulations! You'll be
 rewarded with an Ultima Totem, which can be exchanged in Rhalgr's Reach
 for an i375 Ultima weapon of your choice.
+
+If you have any questions, thoughts, or concerns, please
+[open an issue at the ultimates.guide GitHub repository](https://github.com/Veraticus/ultimates/guide).
+
+
+Special thanks to Team ♿, and all others involved in collecting information/proofreading for making this guide possible.
+
+<blockquote>
+
+**Changelog**
+
+**v1.0 – 6/17/2018**
+* Official Release woo
+
+**v1.0.1 – 6/18/2018**
+* Clarified predation diagrams
+* Added duration for woken Searing Wind
+* Fixed grammar
+* Fixed typos
+
+**v1.0.2 – 6/18/2018**
+* oh my god the predation diagram was wrong i'm so sorry it's fixed now
+* band aid trigger fix
+
+**v1.1 – 6/18/2018**
+* Fixed some grammar
+* Added a note on ranged taking tether during Suppression
+* Fixed Titan Gaol triggers
+* Added Change Log into the actual page instead of just a comment
+
+**v1.1.1 – 6/24/2018**
+* Added a note involving an alternative strategy for Thermal Low. Will write-up on this strategy when possible.
+
+**v1.1.2 – 6/27/2018**
+* Fixed all instances of spelling "Supression" into "Suppression"
+
+**v1.2 – 7/15/2018**
+* Added new information regarding last phase primals.
+* Fixed bad wording.
+
+**v1.3 – 7/30/2018**
+* Clarified Ultimate Predation strategy.
+* Added diagrams to explain Ultimate Predation more accurately.
+* Indicated primal ultimates should have shielding and mitigation in the last phase of Ultima.
+
+**v1.3.1 – 8/21/2018**
+* Clarified Landslide being baited on a party member during Ultimate Supression.
+* Added damage estimation for Homing Lasers.
+
+**v1.3.2 – 2/19/2019**
+* Fixed typo relating to strategy in Ifrit nails.
+
+**v1.3.3 – 2/19/2019**
+* Clarified how Titan's awoken landslides work.
+
+**v2.0.0 - 11/11/2020**
+* Copy content to ultimates.guide
+* Some editing and style tweaks and cleanups
+
+</blockquote>
