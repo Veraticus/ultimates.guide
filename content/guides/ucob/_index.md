@@ -546,7 +546,7 @@ bosses again and begins Heavensfall Trio.
 
 The trio begins with Bahamut, Nael, and Twintania jumping to a random edge of
 the arena. They will always be adjacent to each other, but in a random position
-(i.e. You may see from left to right** [Bahamut, Nael, Twintania]** or** [Nael,
+(i.e. You may see from left to right **[Bahamut, Nael, Twintania]** or **[Nael,
 Bahamut, Twintania]**, or any other combination of the three). Begin by
 stacking in the middle, to bait Bahamut and Twintania's dives. There are two
 ways to dodge dives, depending on Nael's position in their configuration.
