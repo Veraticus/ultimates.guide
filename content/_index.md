@@ -13,7 +13,7 @@ author's permission, given that no advertising is added to the content.
 These guides can be altered on [GitHub](https://github.com/Veraticus/ultimates.guide)!
 Please contribute to keep them as relevant as possible.
 
-If you find this resource useful, please contribute:
+If you find this resource useful:
 * Donate to Clees for their amazing work on the guides by pressing this button:
 
 <!-- Begin PayPal Donations by https://www.tipsandtricks-hq.com/paypal-donations-widgets-plugin -->
