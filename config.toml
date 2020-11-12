@@ -5,15 +5,16 @@ theme = "tale"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
+canonifyURLs = true
 
 [Author]
-  name = "ultimates.guide"
+    name = "ultimates.guide"
 
 [params]
-  css = [ "/ultimates.guide.css", "/carousel.css" ]
+    css = [ "/ultimates.guide.css" ]
 
 [markup.goldmark.renderer]
-unsafe= true
+    unsafe= true
 
 [menu]
   [[menu.main]]

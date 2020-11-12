@@ -332,7 +332,7 @@ it's worth.
 where you're running is safe before you sprint there, as if you double
 back you'll likely die to Radiant Plumes.*
 
-Ifrit will then land and begin casting **Hellfire, **following up immediately with a **Vulcan Burst**.
+Ifrit will then land and begin casting **Hellfire** following up immediately with a **Vulcan Burst**.
  Make sure this is shielded to avoid being knocked into the wall. Ifrit
 does not share an enmity table with Garuda, so your tanks need to grab
 enmity as soon as possible. Ifrit will then follow up with three **Incinerates**, which
@@ -1270,7 +1270,6 @@ Everyone else should be attacking the Gaol and dodging Feather Rain.*
 <div role="tablist" class="dots"></div>
 </div>
 
-
 After all of this is completed, have your whole party stacked in one
 position, as shown below, to bait Landslide. A random player will be
 marked with Flaming Crush, and another player will be tethered by
@@ -1279,6 +1278,40 @@ Mesohigh. Move together as a group to avoid Landslide (out and back in),
 the Mesohigh tether. Dodge a final feather rain and get ready for a Tank
  Purge, so have everyone stacked and shielded. After this phase is over,
  Ultima will teleport back to the middle.
+
+<div class="glider-contain" id="suppression-2">
+<div class="glider">
+<div>
+
+![Suppression 2-1](suppression-2-1.png)
+*You don't have to be stacked in this exact position. Be wary that Ultima
+Lasers are going out throughout all of this, so you might have to adjust your
+position.*
+
+</div>
+
+<div>
+
+![Suppression 2-2](suppression-2-2.png)
+*Have a pre-assigned (preferably a tank) player move out of the stack, while
+the rest of the party dodges back into the landslide after it goes off. The
+player taking the Mesohigh tether should attempt to dodge into a further
+Landslide.*
+
+</div>
+<div>
+
+![Suppression 2-3](suppression-2-3.png)
+*Heal up, dodge a Feather Rain, and prepare for Tank Purge and this phase is
+finished!*
+
+</div>
+
+</div>
+<button aria-label="Previous" class="glider-prev">«</button>
+<button aria-label="Next" class="glider-next">»</button>
+<div role="tablist" class="dots"></div>
+</div>
 
 ### Aetheric Boom
 
