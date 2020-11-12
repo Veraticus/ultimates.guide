@@ -1046,6 +1046,7 @@ Cycle 2:
   * if ***"Unbending iron, take fire and descend!"***
 — Iron Chariot → Thermionic Beam → Raven's Dive
   * if ***"Unbending iron, descend with fiery edge!"***
+— Iron Chariot → Raven's Dive → Thermionic Beam
 * Twintania: Twister
 * Twintania: Death Sentence + Nael: Ravensbeak
 * Nael: Megaflare
