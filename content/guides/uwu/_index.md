@@ -1384,7 +1384,7 @@ during Titan.
 
 After all 3 primals are done, Ultima will teleport to the north of
 the arena and begin charging up his remaining Ultima Aether. As soon as
-Ultima reaches 100 **Ultima Aether, **it will begin
+Ultima reaches 100 **Ultima Aether**, it will begin
 it's fairly elaborate enrage. Ultima will gain a damage up and slowly
 begin to stun players one-by-one, pulling them into the middle of the
 arena, and raising them into the air before killing them with **Citadel Siege**,

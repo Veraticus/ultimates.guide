@@ -58,7 +58,7 @@ Twintania will then cast **Generate**, marking a random DPS player with 3 circle
 
 > Because Generate can target any DPS, in the event your baiter is marked, I'd recommend having a second DPS serve as a backup baiter. As soon as the main baiter is marked, the backup baiter should be ready to take their place and bait the same way. 
 
-After the second set of Liquid Hells, Twintania will cast **Death Sentence**, forcing a tank swap. She will then use **Generate **once more, immediately followed by a **Twister**. Because of the delay of the Hatch spawning, players will have to bait twisters outside the neurolink, and move in after the cast is finished. Twintania will then use **Plummet**, and repeat her rotation until she is pushed past 44%.
+After the second set of Liquid Hells, Twintania will cast **Death Sentence**, forcing a tank swap. She will then use **Generate** once more, immediately followed by a **Twister**. Because of the delay of the Hatch spawning, players will have to bait twisters outside the neurolink, and move in after the cast is finished. Twintania will then use **Plummet**, and repeat her rotation until she is pushed past 44%.
 
 > Twintania repeats the following until she is pushed to 44%
 > * Liquid Hell (Distance)
@@ -362,7 +362,12 @@ and each healer was assigned east or west, accompanied by a tank to intercept
 the tether. The last DPS with Earth Shakers would go north. Have your tanks
 intercept the Tempest Wing tethers and position themselves in front of the two
 healers, regardless of if they'll be hit by Earth Shaker, as it does menial
-damage to tanks. After this, the first Trio is resolved. A diagram is shown
+damage to tanks. After this, the first Trio is resolved. 
+
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=631927850082161&preview=1)
+of how Aether PUGs handle Quickmarch, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
+
+A diagram is shown
 below:
 
 <div class="glider-contain" id="quickmarch-trio">
@@ -490,6 +495,9 @@ towers after the second Hypernova, so wait until you see it before moving in.
 finished position after the dive is near a tower location, I'd recommend
 defaulting clockwise to follow this diagram.*
 
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=731924771082161&preview=1)
+of how Aether PUGs handle Blackfire, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
+
 Immediately after Blackfire Trio, Bahamut will begin casting **Gigaflare**, so
 make sure to mitigate appropriately. Bahamut will follow up with 3 Flare
 Breaths in a row, and once again summon the other bosses and begin Fellruin
@@ -529,6 +537,9 @@ spread out as fast as possible.
 *Black circles indicate neurolinks, while blue lines indicate tempest wings.
 Keep in mind Nael, Bahamut, and Twintania's locations are in a random
 configuration.*
+
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=831921602082161&preview=1)
+of how Aether PUGs handle Fellruin, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
 
 This trio is immediately followed by a Gigaflare, so make sure to heal and
 mitigate appropriately. Afterwards, Bahamut will use a Flare Breath, followed
@@ -597,6 +608,9 @@ middle to soak Fireball, and prepare mitigation for the upcoming Gigaflare.
 > Some groups may decide to just sacrifice the Fireball marked player, and
 > forego all damage caused by it. This should only be done if you have less
 > than 6 people up, and desperately need to recover.
+
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=931929042082161&preview=1)
+of how Aether PUGs handle Heavensfall, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
 
 Immediately after Heavensfall Trio, Bahamut will use Gigaflare, followed by 3
 Flare Breaths. Afterwards, Tenstrike Trio will begin.
@@ -714,6 +728,9 @@ safe zone.*
 <div role="tablist" class="dots"></div>
 </div>
 
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=041924092082161&preview=1)
+of how Aether PUGs handle Tenstrike, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
+
 After this trio resolves, Bahamut will once again cast Gigaflare, followed by a
 Flatten into Flare Breath, and then following into Grand Octet.
 
@@ -806,7 +823,7 @@ intercardinal. When the red Bahamut marker appears, run to the center.*
 <div role="tablist" class="dots"></div>
 </div>
 
-**In the event Nael is directly across from Bahamut: **If Bahamut was at
+**In the event Nael is directly across from Bahamut:** If Bahamut was at
 a **CARDINAL** position, wait for the first divebomb marker to appear, and then
 run to the first dragon counter-clockwise Nael (Diagrams 1 &amp; 2 shown
 below). If Bahamut was at an **INTERCARDINAL** position, wait for the first
@@ -891,6 +908,9 @@ twisters, so be wary.
 > In the case of a tank LBing having to position Twintania's dive (i.e. you
 > have a death going into Grand Octet), you will need a healer ready to rescue
 > the tank as soon as the Twintania dive marker appears.
+
+[Here's a helpful toolbox](https://ff14.toolboxgaming.space/?id=141922153082161&preview=1)
+of how Aether PUGs handle Grand Octet, courtesy of Lily Coffeebean@Cactuar (Lily#0601).
 
 Immediately after Grand Octet is complete, Bahamut will immediately jump to the
 background of the arena, and begin charging **Teraflare**.
