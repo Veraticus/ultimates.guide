@@ -294,7 +294,7 @@ to its target, and inflicting a Fire Resistance Down II debuff.
 (usually a tank) will be tethered together, both being applied with
 an **Infernal Fetters**
  debuff, reducing damage done and inflicting a menial DoT. Moving far
-from each other will increase it's stacks. The more stacks inflicted,
+from each other will increase its stacks. The more stacks inflicted,
 the more severe the damage down and dot applied.
 * **Inferno Howl**: Ifrit
  turns around and faces a healer and inflicts Searing Wind on them for
@@ -545,7 +545,7 @@ proximity from his impact point.
 * **Rock Buster**: Tankbuster with no cast time dealing heavy physical damage to
 its target. Cleaves. This attack is always followed up by a **Mountain Buster**.
 * **Mountain Buster**: Tankbuster with no cast time dealing severe physical
-damage to it's target. Cleaves.
+damage to its target. Cleaves.
 * **Weight of the Land**: Ground AoE appearing under random players twice in a
 row, which then explode. When **Woken**, ground AoEs appear three times in a row.
 * **Upheaval**: 3s cast knocking back all players from Titan's position.
@@ -788,20 +788,20 @@ the following:
 before the end of the fight, Ultima will gain an insane Damage Up buff,
 likely wiping the raid. It increases gradually when Ultima casts some
 abilities by 4, and also increases by 4 with every death.
-* **Ultima**: Massive raidbuster dealing extremely heavy magic damage. Must be
-* mitigated via the use of a Level 3 Tank Limit Break.
+* **Ultima**: Massive raidbuster dealing extremely heavy magic damage. Must be 
+mitigated via the use of a Level 3 Tank Limit Break.
 * **Tank Purge**: Raidbuster dealing heavy magic damage.
 * **Homing Lasers**: Very heavy tankbuster (~125k unimitigated) targeting the
-* player with the second highest enmity, in a small circle around them.
+player with the second highest enmity, in a small circle around them.
 * **Viscous Aetheroplasm**:  Attack applying the **Viscous Aetheroplasm**
  debuff, which explodes after a short period of time for heavy magic
 damage that can be soaked with the party. It's a small circle AoE, so
 any players near the target (including pets!) will get a Viscous
 Aetheroplasm debuff if they are also hit.
 * **Diffractive Laser**: Tankbuster with no cast time dealing moderate magic
-* damage. Cleaves.
+damage. Cleaves.
 * **Aetheric Boom**: Knockback originating from Ultima hitting all players. Is
-* accompanied by 4 sets of Aetheroplasms.
+accompanied by 4 sets of Aetheroplasms.
 
 This phase consists of alternating between Intermissions, and Active
 Phases, somewhat similar to Bahamut Prime in the Unending Coil of
@@ -988,7 +988,7 @@ cast).
 
 What's critical of Ultimate Annihilation is the **Aetheroplasm**
  orbs that spawn throughout the phase. When a player is inside the orb's
- AoE, they will take menial damage and be tethered to Ultima, increasing
+ AoE, they will take minor damage and be tethered to Ultima, increasing
  his Ultima Aether gauge by 1 per player.
  **The more people that take an Aetheroplam orb, the greater the tether
  between two orbs will be during the Aetheric Boom phase**, which
@@ -1100,7 +1100,7 @@ this wonky.
 You're essentially baiting the Weights of the Land near Ultima's
 hitbox, in order to mantain uptime. Make sure you stay stacked, as a
 Flaming Crush marker will appear over a player. Have a pre-assigned
-player (i'd recommend a tank) move out of the stack after the second
+player (I'd recommend a tank) move out of the stack after the second
 Weight of the Land to take the Mesohigh tether. Have your Searing Wind
 healer move south to prepare to take the second Mesohigh tether, dodge
 Feather Rains as they appear, dodge Ifrit charges/afterburns and Titan
@@ -1385,7 +1385,7 @@ during Titan.
 After all 3 primals are done, Ultima will teleport to the north of
 the arena and begin charging up his remaining Ultima Aether. As soon as
 Ultima reaches 100 **Ultima Aether**, it will begin
-it's fairly elaborate enrage. Ultima will gain a damage up and slowly
+its fairly elaborate enrage. Ultima will gain a damage up and slowly
 begin to stun players one-by-one, pulling them into the middle of the
 arena, and raising them into the air before killing them with **Citadel Siege**,
  dealing 999,999 damage. He will continue pulling everyone to the
