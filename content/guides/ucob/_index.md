@@ -948,8 +948,8 @@ background of the arena, and begin charging **Teraflare**.
 * Nael and Twintania become targetable. 
 * One tank per boss. Can be tanked back to back.
 * Duty Gauge for an ultimate attack. 100 = wipe.
-* Need to kill both bosses at roughly the same time, as upon death the other
-* casts their ultimate. (Twintania: Twin Fury &amp; Nael: White Fury)
+* Need to kill both bosses at roughly the same time, as upon death
+the other casts their ultimate. (Twintania: Twin Fury &amp; Nael: White Fury)
 
 The phase begins with Bahamut charging Aethertrail Attunement in the duty
 gauge, and Nael and Twintania becoming targetable, spawning at 45% and 40% HP
