@@ -11,7 +11,7 @@ url = "/dru"
 
 ### P1 (Vault Knights)
 
-https://ff14.toolboxgaming.space/?id=999851866521561&preview=1#3
+https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
 > Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart
  
@@ -35,7 +35,7 @@ https://ff14.toolboxgaming.space/?id=599852715521561&preview=1
  
 ### P4 (Time Warp)
 
-https://ff14.toolboxgaming.space/?id=999851866521561&preview=1#3 
+https://ff14.toolboxgaming.space/?id=999851866521561&preview=1 
 
 > Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart
 
