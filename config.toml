@@ -18,6 +18,12 @@ canonifyURLs = true
 
 [menu]
   [[menu.main]]
+    identifier = "dru"
+    name = "DRU"
+    title = "DRU"
+    url = "/dru"
+    weight = 0
+  [[menu.main]]
     identifier = "uwu"
     name = "UWU"
     title = "UWU"
