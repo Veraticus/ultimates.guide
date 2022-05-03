@@ -15,7 +15,7 @@ url = "/dru"
 
 https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
-> ![Playstation 1](https://cdn.discordapp.com/attachments/968960770551463976/969355836830912512/unknown.png)
+> ![Playstation 1](playstation.png)
 > *Role Playstation*
 > Xenos pit fight
 
