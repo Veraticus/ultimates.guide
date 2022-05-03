@@ -11,15 +11,35 @@ url = "/dru"
 
 ### P1 (Vault Knights)
 
+*Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart*
+
 https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
-*Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart*
- 
+#### TLDR
+> Role playstation ![Playstation 1](mistral-song-1.png)
+> Xenos pit fight
+
 ### P2 (Thordan)
 
-https://ff14.toolboxgaming.space/?id=860853777701561&preview=1
+*Created by Dong Senpai, edited by Day Lights, edited by Atmus Coldheart*
 
-*Created by Dong Senpai, edited by Day Lights*
+#### Setup and Strength (Trio 1)
+
+https://ff14.toolboxgaming.space/?id=740061050351561&preview=1
+
+#### Trio 2
+
+There are two popular strategies for trio 2 in PF right now: "braindead"
+and "brainsmort." Both have relative strengths and weaknesses and PF
+has not settled on one yet, so both are presented here.
+
+Brainsmort: https://ff14.toolboxgaming.space/?id=840061660351561&preview=1
+
+Braindead: https://ff14.toolboxgaming.space/?id=150063411351561&preview=1
+
+#### Trio 3 (Meteors) to End
+
+https://ff14.toolboxgaming.space/?id=050062490351561&preview=1
  
 ### P3 (Nidstinien)
 
