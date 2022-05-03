@@ -32,9 +32,9 @@ There are two popular strategies for trio 2 in PF right now: "braindead"
 and "brainsmort." Both have relative strengths and weaknesses and PF
 has not settled on one yet, so both are presented here.
 
-Brainsmort: https://ff14.toolboxgaming.space/?id=840061660351561&preview=1
-
 Braindead: https://ff14.toolboxgaming.space/?id=150063411351561&preview=1
+
+Brainsmort: https://ff14.toolboxgaming.space/?id=840061660351561&preview=1
 
 ### Trio 3 (Meteors) to End
 
