@@ -17,7 +17,7 @@ https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
 ### TLDR
 
-[Playstation 1](playstation.png)
+![Playstation 1](playstation.png)
 *Role Playstation*
 
 Xenos pit fight, HMRT
