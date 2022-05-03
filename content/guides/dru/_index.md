@@ -5,29 +5,29 @@ url = "/dru"
 
 # Dragonsong's Reprise (Ultimate)
 
-## Aether PUG DRU Strats
+# Aether PUG DRU Strats
 
 *Adapted from [Day Lights' pastebin](https://pastebin.com/McvYzCxb) by Atmus Coldheart*
 
-### P1 (Vault Knights)
+## P1 (Vault Knights)
 
 *Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart*
 
 https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
-#### TLDR
-> Role playstation ![Playstation 1](mistral-song-1.png)
+> ![Playstation 1](https://cdn.discordapp.com/attachments/968960770551463976/969355836830912512/unknown.png)
+> *Role Playstation*
 > Xenos pit fight
 
-### P2 (Thordan)
+## P2 (Thordan)
 
 *Created by Dong Senpai, edited by Day Lights, edited by Atmus Coldheart*
 
-#### Setup and Strength (Trio 1)
+### Setup and Strength (Trio 1)
 
 https://ff14.toolboxgaming.space/?id=740061050351561&preview=1
 
-#### Trio 2
+### Trio 2
 
 There are two popular strategies for trio 2 in PF right now: "braindead"
 and "brainsmort." Both have relative strengths and weaknesses and PF
@@ -37,11 +37,11 @@ Brainsmort: https://ff14.toolboxgaming.space/?id=840061660351561&preview=1
 
 Braindead: https://ff14.toolboxgaming.space/?id=150063411351561&preview=1
 
-#### Trio 3 (Meteors) to End
+### Trio 3 (Meteors) to End
 
 https://ff14.toolboxgaming.space/?id=050062490351561&preview=1
  
-### P3 (Nidstinien)
+## P3 (Nidstinien)
 
 https://ff14.toolboxgaming.space/?id=733856326211561&preview=1
 
@@ -53,12 +53,12 @@ https://ff14.toolboxgaming.space/?id=599852715521561&preview=1
 
 *Created by King Bun & Rin Karigani, Modified by Day Lights*
  
-### P4 (Time Warp)
+## P4 (Time Warp)
 
 https://ff14.toolboxgaming.space/?id=999851866521561&preview=1 
 
 *Created by Nivexus, edited by Day Lights, edited by Atmus Coldheart*
 
-### To be continued...
+## To be continued...
 
 [Join the Aether PUG DRU Discord!](https://discord.gg/5Bjb6QCDGM)
