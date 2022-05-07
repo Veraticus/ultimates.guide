@@ -65,10 +65,12 @@ https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 ## P5 (Thordan Reprise)
 
 Wrath of the Heavens: https://ff14.toolboxgaming.space/?id=582750514290561&preview=1
-* Created by Dylan Luxor*
+
+* Created by Dylan Luxor *
 
 Death of the Heavens: https://ff14.toolboxgaming.space/?id=945952072831561&preview=1
-* Created by Key & Zuro*
+
+* Created by Key & Zuro *
 
 ## To be continued...
 
