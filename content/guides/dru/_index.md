@@ -46,11 +46,13 @@ https://ff14.toolboxgaming.space/?id=050062490351561&preview=1
  
 ## P3 (Nidstinien)
 
-https://ff14.toolboxgaming.space/?id=733856326211561&preview=1
+### Wyrmhole
 
-*Created by Zeal, edited by Day Lights*
+https://ff14.toolboxgaming.space/?id=442165647202561&preview=1
+
+*Created by Zeal, edited by Day Lights, edited by Atmus Coldheart*
  
-### P3 (Eyes)
+### Eyes
 
 https://ff14.toolboxgaming.space/?id=599852715521561&preview=1
 
