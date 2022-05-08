@@ -66,18 +66,20 @@ https://ff14.toolboxgaming.space/?id=999851866521561&preview=1
 
 ## P5 (Thordan Reprise)
 
-### Wrath of the Heavens
-
 https://ff14.toolboxgaming.space/?id=582750514290561&preview=1
 
 *Created by Dylan Luxor*
 
-### Death of the Heavens
+## P6 (Double Dragons)
 
-https://ff14.toolboxgaming.space/?id=945952072831561&preview=1
+https://ff14.toolboxgaming.space/?id=932759156480561&preview=1
 
-*Created by Key & Zuro*
+*Created by Dylan Luxor*
 
-## To be continued...
+## P7 (Dragon-king Thordan)
+
+https://ff14.toolboxgaming.space/?id=782757254290561&preview=1
+
+*Created by Dylan Luxor*
 
 [Join the Aether PUG DRU Discord!](https://discord.gg/5Bjb6QCDGM)
