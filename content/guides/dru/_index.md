@@ -46,19 +46,17 @@ https://ff14.toolboxgaming.space/?id=050062490351561&preview=1
  
 ## P3 (Nidstinien)
 
-### Wyrmhole
-
 https://ff14.toolboxgaming.space/?id=442165647202561&preview=1
 
 *Created by Zeal, edited by Day Lights, edited by Atmus Coldheart*
  
-### Eyes
+## P4 (The Eyes)
 
 https://ff14.toolboxgaming.space/?id=599852715521561&preview=1
 
 *Created by King Bun & Rin Karigani, Modified by Day Lights*
  
-## P4 (Time Warp)
+## Intermission (Time Warp)
 
 https://ff14.toolboxgaming.space/?id=999851866521561&preview=1 
 
