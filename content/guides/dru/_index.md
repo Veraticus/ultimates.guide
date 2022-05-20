@@ -88,7 +88,9 @@ https://ff14.toolboxgaming.space/?id=582750514290561&preview=1
 
 *Created by Dylan Luxor*
 
-A number of Death of the Heavens strats are materializing. Alternatives to the toolbox are listed here for people to select their preferred strat.
+### Death of the Heavens
+
+Alternatives to the toolbox strat are listed here. Select the best strat for your group.
 
 Meteor partners: https://docs.google.com/document/d/1mxaUPkXgwmnaiLkp5vZo0ZCcZ31jRlZDxa1-MQq6Zdw/edit
 
