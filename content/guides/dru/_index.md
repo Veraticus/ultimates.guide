@@ -91,8 +91,11 @@ https://ff14.toolboxgaming.space/?id=582750514290561&preview=1
 A number of Death of the Heavens strats are materializing. Alternatives to the toolbox are listed here for people to select their preferred strat.
 
 Meteor partners: https://docs.google.com/document/d/1mxaUPkXgwmnaiLkp5vZo0ZCcZ31jRlZDxa1-MQq6Zdw/edit
+
 Conga line: https://raidplan.io/plan/2XQ2rRx1xi061D_V
+
 No hit: https://raidplan.io/plan/3-glugUcir5kjFtx
+
 Quickmarch: https://cdn.discordapp.com/attachments/972643963624386561/974161539244380160/unknown.png
 
 ## P6 (Double Dragons)
