@@ -52,9 +52,7 @@ https://ff14.toolboxgaming.space/?id=442165647202561&preview=1
  
 ## P4 (The Eyes)
 
-https://ff14.toolboxgaming.space/?id=599852715521561&preview=1
-
-*Created by King Bun & Rin Karigani, Modified by Day Lights*
+https://raidplan.io/plan/8z6l3K14M-v5NOnz
  
 ## Intermission (Time Warp)
 
