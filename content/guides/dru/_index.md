@@ -92,7 +92,9 @@ https://ff14.toolboxgaming.space/?id=059268464413561&preview=1
 
 Alternatives to the toolbox strat are listed here. Select the best strat for your group.
 
-Meteor partners: https://docs.google.com/document/d/1mxaUPkXgwmnaiLkp5vZo0ZCcZ31jRlZDxa1-MQq6Zdw/edit
+Modified Mistlight: https://raidplan.io/plan/hZujWj_ZbDTta0fp
+
+Meteor partners: https://raidplan.io/plan/klWyJQKVHAQjTwaw
 
 Conga line: https://raidplan.io/plan/2XQ2rRx1xi061D_V
 
