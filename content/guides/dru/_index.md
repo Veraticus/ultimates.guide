@@ -74,7 +74,9 @@ https://ff14.toolboxgaming.space/?id=442165647202561&preview=1
  
 ## P4 (The Eyes)
 
-https://raidplan.io/plan/8z6l3K14M-v5NOnz
+https://raidplan.io/plan/1wcD63zv2L8OB9KC
+
+*Original author unknown, edited by Atmus Coldheart*
  
 ## Intermission (Time Warp)
 
