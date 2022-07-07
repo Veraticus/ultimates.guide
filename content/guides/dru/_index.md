@@ -5,7 +5,7 @@ url = "/dru"
 
 # Dragonsong's Reprise (Ultimate)
 
-# Aether PUG DRU Strats
+# Aether PUG DSR Strats
 
 Find macros for these strats at [Aether PUG DSR](https://discord.gg/5Bjb6QCDGM)!
 
