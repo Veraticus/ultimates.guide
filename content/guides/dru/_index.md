@@ -46,6 +46,7 @@ https://ff14.toolboxgaming.space/?id=442165647202561&preview=1
 *Created by Zeal, edited by Day Lights, edited by Atmus Coldheart*
 
 Westhogg (east up, west down, face west)
+
 Tanks and melees adjust enumerations
  
 ## P4 (The Eyes)
