@@ -98,4 +98,3 @@ https://ff14.toolboxgaming.space/?id=782757254290561&preview=1
 
 *Created by Dylan Luxor*
 
-[Join the Aether PUG DRU Discord!](https://discord.gg/5Bjb6QCDGM)
