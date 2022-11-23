@@ -1,6 +1,6 @@
 +++
 title = "Dragonsong's Reprise (Ultimate)"
-url = "/dru"
+url = "/dsr"
 +++
 
 # Dragonsong's Reprise (Ultimate)
