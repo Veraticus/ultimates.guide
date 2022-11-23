@@ -1,7 +1,7 @@
 # Guides
 * [The Weapon's Refrain (Ultimate)](/uwu)
 * [The Unending Coil of Bahamut (Ultimate)](/ucob)
-* [Dragonsong's Refrain (Ultimate)](/dru)
+* [Dragonsong's Refrain (Ultimate)](/dsr)
 
 # About
 
@@ -11,7 +11,7 @@ difficult fights. Originally hosted on Clees' own site at https://clees.me,
 they are reproduced here by [Veraticus](https://github.com/Veraticus) with the
 author's permission, given that no advertising is added to the content.
 
-Additionally, ultimates.guide contains original content on how to do DRU properly!
+Additionally, ultimates.guide contains original content on how to do DSR properly!
 
 All the guides can be altered on [GitHub](https://github.com/Veraticus/ultimates.guide)!
 Please contribute to keep them as relevant as possible.
